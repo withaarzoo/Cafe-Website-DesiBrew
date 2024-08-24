@@ -1,0 +1,150 @@
+DesiBrew - Where Tradition Meets Your Taste
+
+============== NAV BAR ==============
+
+DesiBrew
+
+<i class="ri-menu-line"></i>
+
+Why DesiBrew
+Services
+Menu
+Contact
+
+<i class="ri-login-box-line"></i>
+Login
+
+============== HEADER SECTION ==============
+
+header
+More than Faster
+
+header tag
+
+Experience the Heart of India with <span>DesiBrew</span>
+
+Our job is to filling your tummy with delicious food and with fast and free delivery.
+
+Get Started
+
+<i class="ri-play-fill"></i>
+Watch Video
+
+============== SERVICE SECTION ==============
+
+WHAT WE SERVE
+
+Your Favourite Food Delivery Partner
+
+service
+
+Easy To Order
+You only need a few steps in ordering food
+
+Fastest Delivery
+Delivery that is always ontime even faster
+
+Best Quality
+Not only fast for us quality is also number one
+
+============== MENU SECTION ==============
+
+OUR MENU
+
+Menu That Always Make You Fall In Love
+
+Italian Pizza
+<span>$</span>7.49
+Order Now
+<i class="ri-arrow-right-line"></i>
+
+Burrito Wrap
+<span>$</span>4.49
+Order Now
+<i class="ri-arrow-right-line"></i>
+
+Red Sause Pasta
+<span>$</span>5.99
+Order Now
+<i class="ri-arrow-right-line"></i>
+
+Fresh Pan Pizza
+<span>$</span>6.49
+Order Now
+<i class="ri-arrow-right-line"></i>
+
+Chicken Nuggets
+<span>$</span>4.99
+Order Now
+<i class="ri-arrow-right-line"></i>
+
+Dum Biryani
+<span>$</span>8.49
+Order Now
+<i class="ri-arrow-right-line"></i>
+
+============== CLIENT SECTION ==============
+
+client
+
+WHAT THEY SAY
+
+What Our Customer Say About Us
+
+"DesiBrew is simply outstanding! The variety and deliciousness of their meals are unparalleled, offering something for every palate. What sets DesiBrew apart is their exceptional service. The delivery is impressively fast, ensuring your food arrives hot and fresh."
+
+Theresa Jordan
+Food Enthusiast
+
+<i class="ri-star-fill"></i>
+<i class="ri-star-fill"></i>
+<i class="ri-star-fill"></i>
+<i class="ri-star-fill"></i>
+<i class="ri-star-line"></i>
+
+4.8
+
+============== DOWNLOAD SECTION ==============
+
+download
+
+DOWNLOAD APP
+Get Started With Fudo Today!
+
+Discover food wherever and whenever you want and get your food delivered on time, everytime.
+
+Get The App
+
+============== FOOTER SECTION ==============
+
+DesiBrew
+Our job is to filling youe tummy with delicious food and with fast and free delivery time.
+
+<i class="ri-facebook-fill"></i>
+<i class="ri-instagram-fill"></i>
+<i class="ri-linkedin-fill"></i>
+<i class="ri-pinterest-fill"></i>
+
+Pages
+
+Contact Us
+Menu
+About Us
+Reviews
+
+Resources
+
+Pricing
+FAQs
+Contact Support
+Privacy Policy
+
+Support
+
+Contact
+Affiliates
+Sitemap
+Cancelation Policy
+Security
+
+Copyright © 2024 Code with Aarzoo. All rights reserved.
